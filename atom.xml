@@ -3,11 +3,11 @@
   <title>title</title>
   
   <subtitle>subtitle</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/HexoFEFEBlog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://fefeyo.github.io/HexoFEFEBlog/"/>
   <updated>2018-05-22T08:57:03.387Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://fefeyo.github.io/HexoFEFEBlog/</id>
   
   <author>
     <name>[object Object]</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/05/22/hello-world/"/>
-    <id>http://yoursite.com/2018/05/22/hello-world/</id>
+    <link href="https://fefeyo.github.io/HexoFEFEBlog/2018/05/22/hello-world/"/>
+    <id>https://fefeyo.github.io/HexoFEFEBlog/2018/05/22/hello-world/</id>
     <published>2018-05-22T08:57:03.387Z</published>
     <updated>2018-05-22T08:57:03.387Z</updated>
     
