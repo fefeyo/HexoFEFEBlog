@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>趣味に全てを賭けるブログ</title>
+  
+  <subtitle>趣味に全てを賭けるブログ</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://fefeyo.github.io/"/>
+  <updated>2018-05-27T14:04:19.000Z</updated>
+  <id>https://fefeyo.github.io/</id>
+  
+  <author>
+    <name>[object Object]</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ブログ始めました！</title>
+    <link href="https://fefeyo.github.io/2018/05/27/start-blog/"/>
+    <id>https://fefeyo.github.io/2018/05/27/start-blog/</id>
+    <published>2018-05-27T12:40:42.000Z</published>
+    <updated>2018-05-27T14:04:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>はじめまして！<span style="font-size: 20px;color: red">ふぇふぇ</span>と申します！<br>この度ブログを自作する機会があったので始めてみました。<br>（技術的部分はかなり簡単なのですが記事に起こしてまとめる予定だよ）<br>アニメ・ゲーム等の趣味的な記事から仕事でも使ってる技術的ネタまでいろいろなカテゴリーの記事を上げていくブログになるよー！<br>（一応サブ的な目的としてGithubPagesでブログ書くだけでどこまで行けるかっていう実験も兼ねてる）</p><p><br><br>遅れましたがここで自己紹介！<br>都内でスマホアプリエンジニアをしている<span style="font-size: 20px;color: red">ふぇふぇ</span>です！<br>得意言語は<span style="font-size: 20px">Kotlin</span><img src="https://www.beeete2.com/blog/wp-content/uploads/2018/01/logo_Kotlin.png" width="20">でそれ以外だと</p><ul><li>Java</li><li>JavaScript</li><li>PHP</li><li>Ruby</li><li>Swift(勉強中)</li></ul><p>などなど、趣味でも色々遊んでたりします。<br>アニメ・ゲームも大好きでアニメは毎期モリモリ追いかけてます。スペちゃんかわいい</p><p><img src="https://user-images.githubusercontent.com/7947464/40586667-3e8db6c2-6200-11e8-80f8-98a313f95010.jpg" alt=""></p><p>あと重度のラブライバーです、よしこ・あいきゃん推しです⊂(＾ω＾)⊃<br>今日のあいきゃんパーカーイベント行きたかった・・・</p><p><img src="https://pbs.twimg.com/media/Dd9hMDMVwAAm2KN.jpg" alt=""></p><p>ゲームはスプラトゥーン2<img src="https://pbs.twimg.com/profile_images/819765217957552132/1WftJJM1_400x400.jpg" width="20">にハマっており、平日21時〜や土日は終日いつでもプレイしているレベルです。<span style="font-size: 12px">固定ホシイ</span><br>詳しくはTwitterまで！<a href="https://twitter.com/BukkakeFefe" target="_blank" rel="noopener">✝だてんしふぇふぇ✝</a></p><p><br><br>最初のブログはこんなところで！<br>ばい。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;はじめまして！&lt;span style=&quot;font-size: 20px;color: red&quot;&gt;ふぇふぇ&lt;/span&gt;と申します！&lt;br&gt;この度ブログを自作する機会があったので始めてみました。&lt;br&gt;（技術的部分はかなり簡単なのですが記事に起こしてまとめる予定だよ）&lt;br&gt;
+      
+    
+    </summary>
+    
+      <category term="一般" scheme="https://fefeyo.github.io/categories/%E4%B8%80%E8%88%AC/"/>
+    
+    
+  </entry>
+  
+</feed>
